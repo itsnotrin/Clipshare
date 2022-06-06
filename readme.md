@@ -1,6 +1,7 @@
 # ClipShare
 
----
+<br>
+
 # Contents
 
 - [What is ClipShare](#what-is-clipshare)
