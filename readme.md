@@ -1,5 +1,5 @@
 # ClipShare
-
+An easy and fast self-hosted application to share your best moments with your friends.
 <br>
 
 # Contents
