@@ -2,6 +2,10 @@
 An easy and fast self-hosted application to share your best moments with your friends.
 <br>
 
+# NOTICE:
+You may notice that the repo has been marked as archived. This is temporary as I'm working on other projects at the moment and do not have the time to work on this project. It is something that I would like to complete at some point in time however so I will not be deleting it.
+Thank you for understanding!
+
 # Contents
 
 - [What is ClipShare](#what-is-clipshare)
